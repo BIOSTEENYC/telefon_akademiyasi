@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1100" viewBox="0 0 800 1100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#263238"/>
+      <stop offset="100%" stop-color="#546e7a"/>
+    </linearGradient>
+    <style><![CDATA[
+      .title { font-family: sans-serif; font-size: 42px; fill: #ffffff; font-weight: bold; }
+      .subtitle { font-family: sans-serif; font-size: 22px; fill: #cfd8dc; }
+      .card-title { font-family: sans-serif; font-size: 24px; fill: #ffffff; font-weight: 600; }
+      .card-text { font-family: sans-serif; font-size: 16px; fill: #eceff1; }
+    ]]></style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="1100" fill="url(#bgGradient)" rx="30" />
+
+  <!-- Title -->
+  <text x="40" y="80" class="title">📱 Telefon Akademiyasi</text>
+  <text x="40" y="120" class="subtitle">Telefondagi siz bilmagan imkoniyatlarni o‘rgatuvchi ilova</text>
+
+  <!-- Card 1 -->
+  <rect x="50" y="160" width="700" height="230" rx="20" fill="#37474f" opacity="0.95"/>
+  <text x="70" y="200" class="card-title">🎯 Kimlar uchun?</text>
+  <text x="70" y="235" class="card-text">• Har kuni telefon ishlatadiganlar (ota-onalar, buvilar, aka-uka opa-singgillar)</text>
+  <text x="70" y="265" class="card-text">• Texnikadan qo‘rqmaydigan o‘quvchilar va ustalar</text>
+  <text x="70" y="295" class="card-text">• O‘z telefonini to‘liq tushunmoqchi bo‘lgan har kim</text>
+
+  <!-- Card 2 -->
+  <rect x="50" y="420" width="700" height="230" rx="20" fill="#455a64" opacity="0.95"/>
+  <text x="70" y="460" class="card-title">📚 Nimalarni o‘rgatadi?</text>
+  <text x="70" y="495" class="card-text">• Kamera, internet, xavfsizlik, parollar haqida</text>
+  <text x="70" y="525" class="card-text">• Ilovalarni sozlash, orqa fondagi ishlarni boshqarish</text>
+  <text x="70" y="555" class="card-text">• Harakatlar ortidagi mantig‘ini tushunish</text>
+  <text x="70" y="585" class="card-text">• Telefondan foydalanishda mustaqillik</text>
+
+  <!-- Card 3 -->
+  <rect x="50" y="680" width="700" height="230" rx="20" fill="#1e272e" opacity="0.95"/>
+  <text x="70" y="720" class="card-title">⚙️ Xususiyatlar</text>
+  <text x="70" y="755" class="card-text">• Flutter ilovasi – yengil va tezkor</text>
+  <text x="70" y="785" class="card-text">• Oflayn ishlaydi – internetga qaram emas</text>
+  <text x="70" y="815" class="card-text">• Maxfiylik va shaxsiylik 100%</text>
+  <text x="70" y="845" class="card-text">• Hech qanday reklama yoki kuzatuv yo‘q</text>
+
+  <!-- Footer -->
+  <text x="40" y="1040" class="subtitle">🌐 telefon.akademiyasi – Bilimli foydalanuvchi, mustaqil fuqaro.</text>
+</svg>
