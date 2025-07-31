@@ -1,7 +1,7 @@
 ## 🧠 Telefon Akademiyasi
 
 ### 🔗 Onlayn ko‘rish:
-[🌐 Brauzerda sinab ko‘rish](https://biosteenyc.github.io/ustamakon)
+[🌐 Brauzerda sinab ko‘rish](https://biosteenyc.github.io/telefon_akademiyasi)
 
 ![Telefon Akademiyasi SVG](./readme.svg)
 
