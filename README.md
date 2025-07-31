@@ -1,16 +1,22 @@
-# telefon_akademiyasi
+## 🧠 Telefon Akademiyasi
 
-telefoningizni oson ishlating
+### 🔗 Onlayn ko‘rish:
+[🌐 Brauzerda sinab ko‘rish](https://biosteenyc.github.io/ustamakon)
 
-## Getting Started
+![Telefon Akademiyasi SVG](./readme.svg)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### 📱 Android ilova yuklab olish:
+[▶️ Google Play Store'dan yuklab olish](https://play.google.com/store/apps/details?id=uz.biosteenyc.telefon_akademiyasi)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🖥️ Windows ilovasi:
+[💾 Windows .exe faylni yuklab olish](https://github.com/BIOSTEENYC/telefon_akademiyasi/releases/download/phone/Telefon.Akademiyasi.exe)
+
+---
+
+### 👨‍💻 Motivatsiya va Ilhom bering:
+[▶️ Dasturlash rivoji uchun]
+![IlhomKartasi](https://github.com/BIOSTEENYC/ustamakon/blob/main/motivatsiya.png?raw=true)
